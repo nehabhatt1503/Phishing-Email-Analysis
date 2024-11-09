@@ -26,3 +26,6 @@
   <img src="pictures/diagram.png" width="800"> 
   </p>
 </div>
+
+## Email Header
+It is a section of email that contains information like sender, recipient, date, subject.
