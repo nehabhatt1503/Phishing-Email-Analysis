@@ -19,3 +19,10 @@
 
 ## Reputation Check
 [Virustotal](https://www.virustotal.com/gui/ "Virustotal")
+
+## Overview
+<div>
+  <p align="center">
+  <img src="pictures/diagram.png" width="800"> 
+  </p>
+</div>
