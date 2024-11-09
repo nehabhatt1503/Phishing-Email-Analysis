@@ -4,6 +4,6 @@
 
 <div>
   <p align="center">
-  <img src="pictures/picture.png" width="800"> 
+  <img src="pictures/picture.webp" width="800"> 
   </p>
 </div>
