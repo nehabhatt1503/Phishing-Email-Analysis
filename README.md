@@ -18,4 +18,4 @@
 
 
 ## Reputation Check
-[Virustotal](https://www.virustotal.com/gui/ "Virustotal")\
+[Virustotal](https://www.virustotal.com/gui/ "Virustotal")
