@@ -28,4 +28,15 @@
 </div>
 
 ## Email Header
-It is a section of email that contains information like sender, recipient, date, subject.
+It is a section of email that contains information like sender, recipient, date, and subject.
+
+#### Example:
+` MIME-Version: 1.0
+Received: by 10.220.191.194 with HTTP; Wed, 11 May 2011 12:27:12 -0700 (PDT)
+Date: Wed, 11 May 2011 13:27:12 -0600
+Delivered-To: jncjkq@gmail.com
+Message-ID: <BANLkTi=JCQO1h3ET-pT_PLEHejhSSYxTZw@mail.jncjkq.com>
+Subject: Test
+From: Bill Jncjkq <jncjkq@gmail.com>
+To: bookmarks@jncjkq.net `
+
