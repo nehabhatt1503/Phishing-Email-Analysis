@@ -13,7 +13,7 @@
 
 ## Online URL/Attachment Analysis Tools
 [AnyRun](https://app.any.run/ "AnyRun")\
-[Hybrid Analysis](https://www.hybrid-analysis.com/ "Hybrid Analysis")\
+[Hybrid Analysis](https://www.hybrid-analysis.com/ "Hybrid Analysis")
 
 ## Reputation Check
 [Virustotal](https://www.virustotal.com/gui/ "Virustotal")
