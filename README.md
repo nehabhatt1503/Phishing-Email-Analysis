@@ -102,7 +102,7 @@ Cisco Talos Intelligence has search sections where we can learn the reputation o
 ## Dynamic Analysis
 Dynamic analysis is a method that analyzes phishing emails and other suspicious files to detect malicious intents. Dynamic Analysis involves executing a suspicious file in a sandbox environment and observing its behavior. This process can help identify malicious intent by tracking the program's actions, such as changes to the registry, memory writes, and API calls to servers. 
 
-## [Browserling](https://www.browserling.com/ "Browserling")\
+## [Browserling](https://www.browserling.com/ "Browserling")
  
 Browserling is a cross-browser testing service that allows web designers, developers, and software testers to see how their website looks and functions on different browsers and operating systems.
 # ![image](https://github.com/user-attachments/assets/7ada791e-14f4-4b48-a509-5663834f8636)
