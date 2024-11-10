@@ -88,3 +88,12 @@ By querying [Virustotal](https://www.virustotal.com/gui/ "Virustotal") for web a
 # ![image](https://github.com/user-attachments/assets/7aab9d41-121f-42e0-9ada-ec14eef46d35)
 # ![image](https://github.com/user-attachments/assets/58510ed8-8345-4f52-9946-080239e46d35)
 
+> From the image we can see they were previously analyzed. It doesn't contain malicious content. To scan again, click the `Reanalyze` button. Performing a static analysis of the files in the email can provide insight into the capacity/capability of the file. However, since static analysis takes a long time, dynamic analysis can provide the information you need more quickly.
+
+##[Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")\
+Cisco Talos Intelligence is a threat intelligence service that helps organizations and the internet community stay secure by detecting, analyzing, and protecting against cybersecurity threats.
+
+
+# ![image](https://github.com/user-attachments/assets/d3806089-34b9-46fe-9f84-8f580b4672be)
+
+Cisco Talos Intelligence has search sections where we can learn the reputation of IP addresses. By looking up the SMTP address of the email we detected in Talos, we can see the reputation of the IP address and find out if it is on the blacklist. If the SMTP address is blacklisted, it can be assumed that the attack was carried out on a compromised server.
