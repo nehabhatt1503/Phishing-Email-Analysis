@@ -26,6 +26,18 @@
   </p>
 </div>
 
+
+## Contents 
+* [Email Header](#email-header)
+  + [Example](#example)
+* [Email Header Analysis](#email-header-analysis)
+  + [MX Lookup](#mxlookup)
+* [Static Analysis](#static-analysis)
+  + [Virustotal](#virus-total)
+  + [Cisco Talos Intelligence](#Cisco-Talos-Intelligence)
+* [Dynamic Analysis](#dynamic-analysis)
+   + [Browserling](#Browserling) 
+
 ## Email Header
 It is a section of email that contains information like sender, recipient, date, and subject.
 
