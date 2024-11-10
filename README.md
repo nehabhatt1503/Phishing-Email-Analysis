@@ -78,5 +78,13 @@ This examination showed that the email did not come from the original address, b
 
 ## Static Analysis
 
-Static analysis of a phishing email involves examining the e-mail without executing its contents. Analysts review other attributes such as sender information, email content, links, and attachments to identify potential signs of phishing.
+Static analysis of a phishing email involves examining the e-mail without executing its contents. Analysts review other attributes such as sender information, email content, links, and attachments to identify potential signs of phishing. Attackers can use HTML to create emails that hide malicious URLs behind buttons or text that appear to be harmless.
+
+# ![image](https://github.com/user-attachments/assets/54ce0864-6e78-4029-8419-69286908a2df)
+As seen in the image above, the address the user sees when clicking on a link can be different (the real address is seen when the user hovers over the link). In most phishing attacks, the attackers take a new domain address and complete a phishing attack within a few days. Therefore, if the domain name in the email is new, it is more likely to be a phishing attack. 
+
+By querying [Virustotal](https://www.virustotal.com/gui/ "Virustotal") for web addresses in emails, you can find out if the antivirus engines detect the web address as harmful. If someone else has already analyzed the same address/file in VirusTotal, VirusTotal will not analyze it from scratch, it will show you the old analysis result. 
+
+# ![image](https://github.com/user-attachments/assets/7aab9d41-121f-42e0-9ada-ec14eef46d35)
+# ![image](https://github.com/user-attachments/assets/58510ed8-8345-4f52-9946-080239e46d35)
 
