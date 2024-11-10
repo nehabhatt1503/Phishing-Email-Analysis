@@ -14,12 +14,10 @@
 ## Online URL/Attachment Analysis Tools
 [AnyRun](https://app.any.run/ "AnyRun")\
 [Hybrid Analysis](https://www.hybrid-analysis.com/ "Hybrid Analysis")\
-[urlscan](https://urlscan.io/ "urlscan")
-
 
 ## Reputation Check
 [Virustotal](https://www.virustotal.com/gui/ "Virustotal")
-[Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")\
+[Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")
 
 ## Overview
 <div>
