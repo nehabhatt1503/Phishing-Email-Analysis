@@ -19,6 +19,7 @@
 
 ## Reputation Check
 [Virustotal](https://www.virustotal.com/gui/ "Virustotal")
+[Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")\
 
 ## Overview
 <div>
@@ -85,15 +86,28 @@ As seen in the image above, the address the user sees when clicking on a link ca
 
 By querying [Virustotal](https://www.virustotal.com/gui/ "Virustotal") for web addresses in emails, you can find out if the antivirus engines detect the web address as harmful. If someone else has already analyzed the same address/file in VirusTotal, VirusTotal will not analyze it from scratch, it will show you the old analysis result. 
 
-# ![image](https://github.com/user-attachments/assets/7aab9d41-121f-42e0-9ada-ec14eef46d35)
-# ![image](https://github.com/user-attachments/assets/58510ed8-8345-4f52-9946-080239e46d35)
+# ![image](https://github.com/user-attachments/assets/876ba67e-39ad-4504-b807-639543014ec0)
+
 
 > From the image we can see they were previously analyzed. It doesn't contain malicious content. To scan again, click the `Reanalyze` button. Performing a static analysis of the files in the email can provide insight into the capacity/capability of the file. However, since static analysis takes a long time, dynamic analysis can provide the information you need more quickly.
 
-##[Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")\
+## [Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")\
 Cisco Talos Intelligence is a threat intelligence service that helps organizations and the internet community stay secure by detecting, analyzing, and protecting against cybersecurity threats.
 
 
 # ![image](https://github.com/user-attachments/assets/d3806089-34b9-46fe-9f84-8f580b4672be)
 
 Cisco Talos Intelligence has search sections where we can learn the reputation of IP addresses. By looking up the SMTP address of the email we detected in Talos, we can see the reputation of the IP address and find out if it is on the blacklist. If the SMTP address is blacklisted, it can be assumed that the attack was carried out on a compromised server.
+
+## Dynamic Analysis
+Dynamic analysis is a method that analyzes phishing emails and other suspicious files to detect malicious intents. Dynamic Analysis involves executing a suspicious file in a sandbox environment and observing its behavior. This process can help identify malicious intent by tracking the program's actions, such as changes to the registry, memory writes, and API calls to servers. 
+
+## [Browserling](https://www.browserling.com/ "Browserling")\
+ 
+Browserling is a cross-browser testing service that allows web designers, developers, and software testers to see how their website looks and functions on different browsers and operating systems.
+# ![image](https://github.com/user-attachments/assets/7ada791e-14f4-4b48-a509-5663834f8636)
+
+> The given URL does not lead to anything.
+
+- NOTE- Malware can wait a certain amount of time without taking any action to make detection more difficult. You have to wait for the malware to take action before you decide that the file being scanned is not malicious.
+
