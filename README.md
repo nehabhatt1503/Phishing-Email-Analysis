@@ -43,4 +43,9 @@ It is a section of email that contains information like sender, recipient, date,
 
 
 ## Email Header Analysis
+When we suspect an email is phishing, we need to check the headings during a Phishing analysis:
 
+- Was the email sent from the correct SMTP server?
+- Are the data "From" and "Return-Path / Reply-To" the same?
+
+  
