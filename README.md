@@ -8,6 +8,24 @@
   </p>
 </div>
 
+
+## Contents
+* [Useful Tool](#Useful-Tool)
+* [Online URL/Attachment Analysis Tools](#tools)
+* [Reputation Check](#Reputation-Check)
+* [Overview](#Overview)
+* [Email Header](#email-header)
+  + [Example](#example)
+* [Email Header Analysis](#email-header-analysis)
+  + [MX Lookup](#mxlookup)
+* [Static Analysis](#static-analysis)
+  + [Virustotal](#virus-total)
+  + [Cisco Talos Intelligence](#Cisco-Talos-Intelligence)
+* [Dynamic Analysis](#dynamic-analysis)
+   + [Browserling](#Browserling)
+
+
+
 ## Useful Tool
 [MX Lookup](https://mxtoolbox.com/ "MX Lookup")
 
@@ -16,7 +34,7 @@
 [Hybrid Analysis](https://www.hybrid-analysis.com/ "Hybrid Analysis")
 
 ## Reputation Check
-[Virustotal](https://www.virustotal.com/gui/ "Virustotal")
+[Virustotal](https://www.virustotal.com/gui/ "Virustotal")\
 [Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")
 
 ## Overview
@@ -26,17 +44,7 @@
   </p>
 </div>
 
-
-## Contents 
-* [Email Header](#email-header)
-  + [Example](#example)
-* [Email Header Analysis](#email-header-analysis)
-  + [MX Lookup](#mxlookup)
-* [Static Analysis](#static-analysis)
-  + [Virustotal](#virus-total)
-  + [Cisco Talos Intelligence](#Cisco-Talos-Intelligence)
-* [Dynamic Analysis](#dynamic-analysis)
-   + [Browserling](#Browserling) 
+ 
 
 ## Email Header
 It is a section of email that contains information like sender, recipient, date, and subject.
