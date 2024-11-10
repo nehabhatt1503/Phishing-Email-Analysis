@@ -91,7 +91,7 @@ By querying [Virustotal](https://www.virustotal.com/gui/ "Virustotal") for web a
 
 > From the image we can see they were previously analyzed. It doesn't contain malicious content. To scan again, click the `Reanalyze` button. Performing a static analysis of the files in the email can provide insight into the capacity/capability of the file. However, since static analysis takes a long time, dynamic analysis can provide the information you need more quickly.
 
-## [Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")\
+## [Cisco Talos Intelligence](https://talosintelligence.com/ "Cisco Talos Intelligence")
 Cisco Talos Intelligence is a threat intelligence service that helps organizations and the internet community stay secure by detecting, analyzing, and protecting against cybersecurity threats.
 
 
