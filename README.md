@@ -48,4 +48,6 @@ When we suspect an email is phishing, we need to check the headings during a Phi
 - Was the email sent from the correct SMTP server?
 - Are the data "From" and "Return-Path / Reply-To" the same?
 
+# ![image](https://github.com/user-attachments/assets/91932f22-cec2-4b69-90b5-7a41f2ef52f9)
   
+##### In this example, the data is different. If we want to reply to this email, we will send a reply to the g-mail address. Just because the data is different doesn't always mean it's a phishing email.  
