@@ -56,7 +56,8 @@ When we suspect an email is phishing, we need to check the headings during a Phi
 
 ##### As you can see in the image, the email came from the server with the IP address "104.99.94.116". The e-mail came from the domain `info@letsdefend.io`. So, under normal circumstances, "letsdefend.io" is using `101.99.94.116` to send mail. To confirm this, we can query the MX servers that "letsdefend.io" is actively using. 
 
-### MX Lookup
+### [MX Lookup](https://mxtoolbox.com/ "MX Lookup")
+
 An MX lookup is a process that queries the Domain Name System (DNS) to find the Mail eXchanger (MX) records for a specific domain. MX records are DNS records that help domain owners set the email servers for their domains. 
  
 An MX lookup is important for email delivery because it helps email servers determine which mail servers are responsible for receiving and handling emails for a domain. An MX lookup tool can also help ensure that emails are routed correctly and securely. 
@@ -73,3 +74,9 @@ Here are some things an MX lookup tool can do:
 If we look at the image above, the domain `letsdefend.io` uses Google addresses as its email server. It means there is no relation with the address "101.99.94.116".
 
 This examination showed that the email did not come from the original address, but was spoofed.
+
+
+## Static Analysis
+
+Static analysis of a phishing email involves examining the e-mail without executing its contents. Analysts review other attributes such as sender information, email content, links, and attachments to identify potential signs of phishing.
+
